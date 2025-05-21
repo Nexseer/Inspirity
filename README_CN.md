@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pics/Ta.png" width="100" height="100" alt="Ta">
+<img src="pics/Inspirity.png" width="100" height="100" alt="Logo">
 
 # [Inspirity]()
 
